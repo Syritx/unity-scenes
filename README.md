@@ -6,4 +6,4 @@ Repository made for unity scenes that I've made
 
 ## January 12th, Unity Nature Scene 2.
 
-<img width="1318" alt="Screen Shot 2021-01-12 at 3 54 37 PM" src="https://user-images.githubusercontent.com/56200546/104373273-85487500-54ee-11eb-9690-56954b2e55ce.png">
+<img width="1090" alt="Screen Shot 2021-01-12 at 3 58 05 PM" src="https://user-images.githubusercontent.com/56200546/104373833-fb4cdc00-54ee-11eb-8cf1-123622c2f5f1.png">
